@@ -8,8 +8,8 @@ Pour s'en servir :
 	-> lancer
 	-> à la fin de chaque chargement, l'écran est divisé en 9 parties respectivement
 	à la disposition du clavier numérique à droite du clavier (ainsi, le déplacement 5 correspond à zoomer au centre) 
-	-> entrez en console la case du prochain zoom et appuyez sur entrés
+	-> UNE FOIS LE CHARGEMENT FINI, la page se met à attendre et ne répond plus, entrez alors en console la case du prochain zoom (7/8/9/4/5/6/1/2/3) et appuyez sur 		entrée
 
 Pour aller plus loin :
 	-> modifier le nombre d'itérations dans le fichier python
-	-> changer le cadre de départ
+	-> changer le zoom de départ
